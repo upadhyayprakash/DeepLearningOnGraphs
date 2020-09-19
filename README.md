@@ -1,4 +1,4 @@
-# DeepLearningOnGraphs Book - 2020
+# DeepLearningOnGraphs Book | Year 2020
 
 ## Authors:
 Yao Ma
