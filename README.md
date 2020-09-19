@@ -1,8 +1,7 @@
 # DeepLearningOnGraphs Book | Year 2020
 
 ## Authors:
-Yao Ma
-Jiliang Tang
+Yao Ma and Jiliang Tang
 
 
 ### Caution: Not an original content.
